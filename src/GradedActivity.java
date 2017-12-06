@@ -7,6 +7,7 @@ import javax.swing.JOptionPane;
 
 public class GradedActivity {
     private double score;
+    //score = only attribute, "-" means private
     
     //setScore only allows scores between 0 and 100
     public void setScore(double s){
